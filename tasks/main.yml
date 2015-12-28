@@ -1,0 +1,4 @@
+---
+
+- name: install php7.0-dev
+  apt: pkg=php7.0-dev state=present
